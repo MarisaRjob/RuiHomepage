@@ -9,4 +9,9 @@ body{
 .Homephoto{
 	height: 100px;
 	width: 100px;
+	
+}
+.personality{
+	font-size:90px;
+	font-color: light green;
 }
