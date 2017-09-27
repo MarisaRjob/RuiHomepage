@@ -24,8 +24,8 @@ body{
 	height:60px;
 	width:80px;
 }
-.Photo_div{
-	height:60px;
-	width:80px;
-}
 
+.tablepersonality{
+	table-background: light blue;
+	font-size:90px;
+}
